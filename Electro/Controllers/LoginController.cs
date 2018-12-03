@@ -6,25 +6,16 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Electro.Controllers
 {
-    public class LoginController : Controller
-    {
-        public IActionResult Login()
-        {
-            return View();
-        }
-    }
-}
+   
+
 
 public class LoginController : Controller
 {
-    public IActionResult Blank()
+    public IActionResult Login()
     {
         return View();
     }
 
-    public IActionResult Product()
-    {
-        return View();
-    }
 
+}
 }
