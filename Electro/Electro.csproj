@@ -14,4 +14,10 @@
     <Folder Include="Views\Main\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="Views\Login\Index.cshtml">
+      <Pack>$(IncludeRazorContentInPack)</Pack>
+    </Content>
+  </ItemGroup>
+
 </Project>

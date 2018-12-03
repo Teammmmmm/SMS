@@ -49,15 +49,9 @@ C:\Users\home lap\Documents\GitHub\SMS\Electro\bin\Debug\netcoreapp2.1\Electro.d
 C:\Users\home lap\Documents\GitHub\SMS\Electro\bin\Debug\netcoreapp2.1\Electro.pdb
 C:\Users\home lap\Documents\GitHub\SMS\Electro\bin\Debug\netcoreapp2.1\Electro.Views.dll
 C:\Users\home lap\Documents\GitHub\SMS\Electro\bin\Debug\netcoreapp2.1\Electro.Views.pdb
-C:\Users\home lap\Documents\GitHub\SMS\Electro\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
-C:\Users\home lap\Documents\GitHub\SMS\Electro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
 C:\Users\home lap\Documents\GitHub\SMS\Electro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
-C:\Users\home lap\Documents\GitHub\SMS\Electro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
 C:\Users\home lap\Documents\GitHub\SMS\Electro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Product.g.cshtml.cs
-C:\Users\home lap\Documents\GitHub\SMS\Electro\obj\Debug\netcoreapp2.1\Razor\Views\Login\Blank.g.cshtml.cs
 C:\Users\home lap\Documents\GitHub\SMS\Electro\obj\Debug\netcoreapp2.1\Razor\Views\Login\Login.g.cshtml.cs
-C:\Users\home lap\Documents\GitHub\SMS\Electro\obj\Debug\netcoreapp2.1\Razor\Views\Login\Product.g.cshtml.cs
-C:\Users\home lap\Documents\GitHub\SMS\Electro\obj\Debug\netcoreapp2.1\Razor\Views\Main\Index.g.cshtml.cs
 C:\Users\home lap\Documents\GitHub\SMS\Electro\obj\Debug\netcoreapp2.1\Razor\Views\Public\Checkout.g.cshtml.cs
 C:\Users\home lap\Documents\GitHub\SMS\Electro\obj\Debug\netcoreapp2.1\Razor\Views\Public\store.g.cshtml.cs
 C:\Users\home lap\Documents\GitHub\SMS\Electro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
@@ -67,3 +61,4 @@ C:\Users\home lap\Documents\GitHub\SMS\Electro\obj\Debug\netcoreapp2.1\Electro.R
 C:\Users\home lap\Documents\GitHub\SMS\Electro\obj\Debug\netcoreapp2.1\Electro.RazorTargetAssemblyInfo.cs
 C:\Users\home lap\Documents\GitHub\SMS\Electro\obj\Debug\netcoreapp2.1\Electro.Views.pdb
 C:\Users\home lap\Documents\GitHub\SMS\Electro\obj\Debug\netcoreapp2.1\Electro.csproj.CopyComplete
+C:\Users\home lap\Documents\GitHub\SMS\Electro\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
