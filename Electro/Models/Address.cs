@@ -10,7 +10,7 @@ namespace Electro.Models
         public string name_Address;
         public int number_Address;
         public string city;
-        public int country;
+        public string country;
 
     }
 }

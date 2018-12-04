@@ -12,5 +12,8 @@ namespace Electro.Models
         public string color;
         public double unit_price;
         public string volume;
+        public string brand;
+        public string features;
+
     }
 }

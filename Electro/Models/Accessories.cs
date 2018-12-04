@@ -11,5 +11,9 @@ namespace Electro.Models
         public int Id_accessory;
         public double price;
         public string Color;
+        public string brand;
+        public string features;
+
     }
+
 }
