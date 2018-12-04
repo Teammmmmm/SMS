@@ -5,9 +5,11 @@ using System.Threading.Tasks;
 
 namespace Electro.Models
 {
-    public class Cart
+    public class Acount
     {
-        public string name_item;
-        public int no_item;
+        public string username;
+        public string password;
+        public int age;
+        public string gender;
     }
 }
