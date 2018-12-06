@@ -66,7 +66,7 @@ using Electro.Models;
             WriteLiteral("\r\n\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n\r\n");
             EndContext();
             BeginContext(97, 11639, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "65c2005884664314a889be41b423150c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eb53c6863475488c865ea27359a75208", async() => {
                 BeginContext(103, 10508, true);
                 WriteLiteral(@"
     <!-- /NAVIGATION -->
@@ -287,7 +287,7 @@ using Electro.Models;
                         ");
                 EndContext();
                 BeginContext(10611, 244, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5bb584cde283442280f60bb55ff9acdd", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1f7df335ebf4451fa6b36af23dab1de8", async() => {
                     BeginContext(10617, 231, true);
                     WriteLiteral("\r\n                            <input class=\"input\" type=\"email\" placeholder=\"Enter Your Email\">\r\n                            <button class=\"newsletter-btn\"><i class=\"fa fa-envelope\"></i> Subscribe</button>\r\n                        ");
                     EndContext();
