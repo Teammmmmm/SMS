@@ -68,7 +68,7 @@ using Electro.Models;
             WriteLiteral("\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n");
             EndContext();
             BeginContext(85, 29480, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e732f249853243629950724a9c3c9c9f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f3e1956b20fe495e8e0a5365ae0ae1d9", async() => {
                 BeginContext(91, 8165, true);
                 WriteLiteral(@"
        <!-- BREADCRUMB -->
@@ -250,7 +250,7 @@ using Electro.Models;
                                     ");
                 EndContext();
                 BeginContext(8256, 34, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "64ccec58c4384e6791af7846788e2303", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "217697b8fb4e42bd918d426d85a8b4ac", async() => {
                     BeginContext(8274, 7, true);
                     WriteLiteral("Popular");
                     EndContext();
@@ -272,7 +272,7 @@ using Electro.Models;
                 WriteLiteral("\r\n                                    ");
                 EndContext();
                 BeginContext(8328, 35, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "30840325a6c9428a9816ef42dbb35bc6", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cdf4abf7974349429ca3b588baf5829c", async() => {
                     BeginContext(8346, 8, true);
                     WriteLiteral("Position");
                     EndContext();
@@ -301,7 +301,7 @@ using Electro.Models;
                                     ");
                 EndContext();
                 BeginContext(8623, 29, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "11287b6d62d84cd3bd0d335d153ddc7f", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "826f82864e084525ad957a1ac4a55c11", async() => {
                     BeginContext(8641, 2, true);
                     WriteLiteral("20");
                     EndContext();
@@ -323,7 +323,7 @@ using Electro.Models;
                 WriteLiteral("\r\n                                    ");
                 EndContext();
                 BeginContext(8690, 29, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "db86a2a394014e9e975519551c9c8d90", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "edc66fdb0edf4f2bbf45eb2d49a04854", async() => {
                     BeginContext(8708, 2, true);
                     WriteLiteral("50");
                     EndContext();
@@ -665,7 +665,7 @@ using Electro.Models;
                         ");
                 EndContext();
                 BeginContext(28442, 244, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4fa69fe98340459698db2f49ba6da894", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6ff695192f0940e086a0660a246373af", async() => {
                     BeginContext(28448, 231, true);
                     WriteLiteral("\r\n                            <input class=\"input\" type=\"email\" placeholder=\"Enter Your Email\">\r\n                            <button class=\"newsletter-btn\"><i class=\"fa fa-envelope\"></i> Subscribe</button>\r\n                        ");
                     EndContext();
