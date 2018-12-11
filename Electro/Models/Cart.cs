@@ -9,5 +9,6 @@ namespace Electro.Models
     {
         public string name_item;
         public int no_item;
+        public int id_item;
     }
 }

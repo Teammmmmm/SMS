@@ -12,5 +12,6 @@ namespace Electro.Models
         public string city;
         public string country;
 
+
     }
 }

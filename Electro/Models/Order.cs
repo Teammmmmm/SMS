@@ -9,5 +9,6 @@ namespace Electro.Models
     {
         public int O_ID;
         public string name_order;
+        public int tracking_number;
     }
 }

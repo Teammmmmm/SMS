@@ -5,15 +5,10 @@ using System.Threading.Tasks;
 
 namespace Electro.Models
 {
-    public class Accessories
+    public class Accessories : product
     {
-        public string name_accessory;
-        public int Id_accessory;
-        public double price;
-        public string Color;
-        public string brand;
-        public string features;
+        public string type;
+        
 
     }
-
 }

@@ -5,14 +5,9 @@ using System.Threading.Tasks;
 
 namespace Electro.Models
 {
-    public class Camera
+    
+    public class Camera : product
     {
-        public string name_camera;
-        public int ID_camera;
-        public string brand;
-        public string features;
-
-
-
+        
     }
 }

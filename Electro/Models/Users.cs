@@ -19,6 +19,7 @@ namespace Electro.Models
         {
             if (Email == "admin@admin" && password == "admin")
                 return true;
+
             else
                 return false;
 
