@@ -9,9 +9,14 @@ namespace Electro.Models
     {
 
         public int ID;
+        public string Username;
+        public string Enail;
+        public int Age;
+        public string Gender;
+        public int BirthDate;
+        public int PhoneNumber;
         public string Email { get; set; }
-        public string password { get; set; }
-        
+        public string Password { get; set; }
 
 
 
